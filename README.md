@@ -1,0 +1,2 @@
+# ostackcli
+OpenStack Client Container
